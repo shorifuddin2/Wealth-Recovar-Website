@@ -8,6 +8,39 @@
 body{
     padding:0px;
 }
+header{
+    height: 80px;
+}
+.hero{
+
+background: #000000B2;
+width: 1920px;
+height: 700px;
+}
+.hero-title{
+    width: 856px;
+    height: 183px;
+opacity: 0px;
+font-family: Inter;
+font-size: 50px;
+font-weight: 700;
+text-align: center;
+font-family: Inter;
+font-size: 50px;
+font-weight: 700;
+text-align: center;
+margin: auto;
+}
+.hero-p{
+width: 856px;
+height: 48px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+margin: auto;
+}
 input, textarea,button{
     margin: 4px 0;
     padding: 8px;
@@ -18,9 +51,15 @@ span{
     text-align: center;
 }
 .title{
-font-family: Inter;
-font-size: 40px;
-text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
 
 }
 .button{
